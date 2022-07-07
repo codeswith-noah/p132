@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.heading{
+    width:60%;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+}

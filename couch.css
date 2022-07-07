@@ -1,0 +1,17 @@
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: goldenrod;
+    color: white;
+    text-align: center;
+    border-width: 10px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+}
